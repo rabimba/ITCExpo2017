@@ -85,6 +85,19 @@
 - Readable: HTML arguably most accessible language in computing
 - Encapsulated: copy-and-paste HTML anywhere else and still work, no state or variables
 - Quickly look at a live example...
+---
+
+## Hello World
+
+<!-- .slide: data-transition="none" -->
+
+<div class="stretch" data-aframe-scene="scenes/hello-world.html"></div>
+
+<!-- NOTES -->
+- As web technology, we can embed within slides
+- Can view this in desktop, Android, iOS, Samsung Gear VR, Oculus Rift, HTC Vive
+- View source in DOM inspector and change values live
+- Based on DOM, compatible with all libraries/frameworks: d3.js, Vue.js, React
 
 ------
 
