@@ -31,42 +31,8 @@
 ------
 <!-- .slide: data-background="resources/textures/industrial-medical.png"  -->
 
-------
-<!-- .slide: data-background="resources/textures/blair-montage.png"  -->
 
 ------
 <!-- .slide: data-background="resources/textures/collaborative-ar.png"  -->
 
-------
-<!-- .slide: data-background="media/img/metaverse.jpg" -->
 
-<!-- NOTES -->
-
-## I want The Metaverse
-
-------
-
-<!-- .slide: data-background="media/img/metaverse.jpg" -->
-
-## Can we Give Everyone a Voice?
-
-<blockquote>
-The democratization of information makes it possible, that ideas, opinions, cultural diversity, knowledge, and education will be accessible anywhere, anytime, and to everybody. <br>
-http://www.humanrightsaction.org/information/english.html
-</blockquote>
-
-<!-- NOTES -->
-
-------
-<!-- .slide: data-background="media/img/metaverse.jpg" -->
-
-## The Web democratized the 2D Metaverse
-## And it can do it for AR/VR/MR
-
-------
-
-<!-- .slide: data-background="resources/textures/argonjs-github.png" data-background-position="top left"  data-state="notxrslide" -->
-
-------
-
-<!-- .slide: data-background="resources/textures/mozilla-org.png" data-background-size="contain" -->

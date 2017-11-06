@@ -1,100 +1,27 @@
-<!-- .slide: data-background="resources/textures/girl-painting.jpg" data-transition="slide-in none-out"  -->
 
-# what does it mean for everyone to have a voice?
 
-------
-<!-- .slide: data-background="resources/textures/children-painting-wall.jpg" data-transition="none-in slide-out"  -->
+## Friction of VR Ecosystems
 
-# what does it mean for everyone to be able to create?
-
-------
-<!-- .slide: data-background="resources/textures/facebook.png" data-background-size="contain" -->
-
-------
-<!-- .slide: data-background="resources/textures/reddit.png" data-background-size="contain" -->
-
-------
-<!-- .slide: data-background="resources/textures/tumblr.png" data-background-size="contain" -->
-
-------
-<!-- .slide: data-background="resources/textures/tumblr-anime.png" data-background-size="contain" -->
-
-------
-<!-- .slide: data-background="resources/textures/background-radial.jpeg" -->
-
-## is this the Metaverse We dream of? 
-
-## is this magical?
-
-------
-<!-- .slide: data-background="resources/textures/ada-geocities.png" -->
-
-------
-<!-- .slide: data-background-video="resources/videos/camerons-world.mov" -->
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<blockquote style="background: rgba(32, 32, 32, 0.5);">
-    <span><a href="http://www.cameronsworld.net">http://www.cameronsworld.net</a>
-    </span>
-</blockquote>
-
-------
-<!-- .slide: data-background-video="resources/videos/cageincage.mov" -->
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<blockquote style="background: rgba(32, 32, 32, 0.5);">
-    <span><a href="http://www.thecagecage.com">http://www.thecagecage.com</a>
-    </span>
-</blockquote>
-
-------
-<!-- .slide: data-background="resources/textures/background-radial.jpeg" -->
-
-<img src="resources/textures/HDP-eyes.png" height="300">
-<img src="resources/textures/volcano-fever.png" height="300">
-
+<div class="captioned-image-row">
+  <div>
+    <img data-src="media/img/gatekeeper.png">
+    <i>Gatekeepers</i>
+  </div>
+  <div>
+    <img data-src="media/img/downloads-installs.png">
+    <i>Installs</i>
+  </div>
+  <div>
+    <img data-src="media/img/closed-door.png">
+    <i>Closed</i>
+  </div>
+</div>
 
 <!-- NOTES -->
-touch music thing
-
-
-------
-<!-- .slide: data-background="resources/textures/painting-in-yard.png" data-background-size="contain" -->
-
-<!-- NOTES -->
-Consider a simple example:  
-- putting sculpture or graffiti in the yard
-- view in place, or remotely
-- share with friends
-- invite friend to see it with you
-- discover art, without having one massive channel?
-
-What are the problems?  What would it take?
-
-ieee-oakland.png
+- App stores and corporations control distribution: can take down or block content
+- Downloads / installs are a barrier to consumption: small business pages
+- Closed ecosystem: proprietary engines, steep learning curves, siloed experiences, fragmentation
+- We want VR to be successful, so we want a platform without these points of friction. The answer is WebVR...
 
 ------
 <!-- .slide: data-background="resources/textures/background-radial.jpeg" -->
