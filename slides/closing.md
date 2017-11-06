@@ -26,5 +26,5 @@
 </ul>
 
 <p>This talk available at <a href="https://rabimba.github.io/ITCExpo2017">https://rabimba.github.io/ITCExpo2017</a></p>
-<p>Thanks to everyone who worked on WebXR and Argon</p>
+<p>Thanks to everyone who worked on WebXR and Argon. Shoutout to <a href="https://twitter.com/blairmacintyre">@blairmacintyre</a> and <a href="https://twitter.com/TrevorFSmith">@TrevorFSmith</p></a>
 
