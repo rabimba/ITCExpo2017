@@ -3,9 +3,9 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>Live WebXR Demo</title>
-		
-		<meta name="description" content="Presentation of WebXR Features">
+		<title>State of WebVR , A-Frame and Our Foray Into Web Mixed Reality</title>
+
+		<meta name="description" content="Presentation for AR for Good Workshop at ISMAR 2017: Keeping the Web Healthy in the Age of Mixed Reality">
 		<meta name="author" content="Blair MacIntyre">
 
 		<meta name="apple-mobile-web-app-capable" content="yes">
@@ -85,8 +85,45 @@
 						data-separator-notes="<!-- NOTES -->">
 				</section>
 
+				<section data-markdown="slides/content.md"
+						data-separator="\r?\n------\r?\n"
+						data-separator-vertical="\r?\n---\r?\n"
+						data-separator-notes="<!-- NOTES -->">
+				</section>
+
+
+				<section data-markdown="slides/webvr.md"          
+							data-separator="\r?\n------\r?\n"
+							data-separator-vertical="\r?\n---\r?\n"
+							data-separator-notes="<!-- NOTES -->">
+				</section>
+
+				<section data-markdown="slides/aframe.md"          
+					data-separator="\r?\n------\r?\n"
+					data-separator-vertical="\r?\n---\r?\n"
+					data-separator-notes="<!-- NOTES -->">
+				</section>
+
+
+				<section data-markdown="slides/webar.md"
+						data-separator="\r?\n------\r?\n"
+						data-separator-vertical="\r?\n---\r?\n"
+						data-separator-notes="<!-- NOTES -->">
+				</section>
 
 				<section data-markdown="slides/webxr.md"
+						data-separator="\r?\n------\r?\n"
+						data-separator-vertical="\r?\n---\r?\n"
+						data-separator-notes="<!-- NOTES -->">
+				</section>
+
+				<section data-markdown="slides/web-ecosystem.md"
+						data-separator="\r?\n------\r?\n"
+						data-separator-vertical="\r?\n---\r?\n"
+						data-separator-notes="<!-- NOTES -->">
+				</section>
+
+				<section data-markdown="slides/paideia.md"
 						data-separator="\r?\n------\r?\n"
 						data-separator-vertical="\r?\n---\r?\n"
 						data-separator-notes="<!-- NOTES -->">
@@ -110,7 +147,7 @@
 			// More info https://github.com/hakimel/reveal.js#configuration
 			Reveal.initialize({
 				controls: false,
-				progress: false,
+				progress: true,
 				history: true,
 				center: true,
 				overview: false,
@@ -121,9 +158,9 @@
 
 				multiplex: {
 					// Example values. To generate your own, see the socket.io server instructions.
-					//secret: '15088615335791853589', // Obtained from the socket.io server. Gives this (the master) control of the presentation
+					//secret: '14966434378408538081', // Obtained from the socket.io server. Gives this (the master) control of the presentation
 					secret: null, // Obtained from the socket.io server. Gives this (the master) control of the presentation
-					id: 'f3727025a8df61c7', // Obtained from socket.io server
+					id: 'befe4703c8103d09', // Obtained from socket.io server
 					url: 'blair-reveal-server.glitch.me' // Location of your socket.io server
 				},
 
@@ -147,6 +184,7 @@
 		</script>
 
 <script src="resources/app-3d.js"></script>
+<script src="resources/app.js"></script>
 		
 		<style type="text/css">
 			/* 1. Style header/footer <div> so they are positioned as desired. */

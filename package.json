@@ -1,8 +1,8 @@
 {
-  "name": "ITCExpo 2017",
+  "name": "ismar-2017",
   "version": "1.0.0",
   "description": "HTML/AR Presentation",
-  "homepage": "https://rabimba.github.io/itc-2017",
+  "homepage": "https://rabimba.github.io/ITCExpo2017",
   "scripts": {
     "starthttp": "grunt serve",
     "start": "grunt --gruntfile Gruntfile-https.js serve"
@@ -12,6 +12,10 @@
     "email": "rabimba@mozilla.com",
     "web": "https://rabimba.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rabimba/ITCExpo2017.git"
+  },
   "engines": {
     "node": "~4.1.1"
   },
@@ -19,7 +23,6 @@
     "express": "~4.13.3",
     "grunt-cli": "~0.1.13",
     "mustache": "~2.2.1",
-    "node-static": "^0.7.10",
     "socket.io": "~1.3.7"
   },
   "devDependencies": {

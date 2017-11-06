@@ -1,76 +1,72 @@
-<!-- .slide: data-background="resources/textures/logo-splash.png" data-transition="fade-in fade-out" -->
-------
-
-<!-- .slide: data-state="title" data-background="resources/textures/background-radial.jpeg" data-transition="fade-in fade-out" -->
+<!-- .slide: data-state="title" data-background="resources/textures/background-radial.jpeg"  -->
 
 <div class="talk-title">
-	<h1>WebXR</h1>
-	<h2>Bringing Mixed Reality to the Web</h2>
+	<h1>State of WebVR , A-Frame and Our Foray Into Web Mixed Reality</h1>
     <p class="talk-info">
-		Mozilla <b>Emerging Technologies</b>
+		<b><a href="http://blairmacintyre.me">Rabimba Karanjai</a></b>
 		<br>
-		<br>
-		http://mixedreality.mozilla.org<br>
+		Mozilla Mixed Reality Team | Mozilla Tech Speaker, Mozilla <br>
+		Graduate Student, Rice University<br>
+		@rabimba / rabimba@mozilla.com<br>
     </p>
 </div>
 
 <!-- NOTES -->
 
 ------
+<!-- .slide: data-background="resources/textures/vhfrsword-of-damocles.jpg"  -->
 
-<!-- .slide: data-state="xrslide"  data-transition="fade-in" -->
+<blockquote  style="background: rgba(32, 32, 32, 0.75);">
+<h2>AR? VR? MR?</h2>
+<p>Mixing media with a <br>person's perception of the world<br><span class="green"><em>registered in 3D</em></span><span class="green">, <em>in real-time</em></span></p>
+</blockquote>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<small>Ivan Sutherland, "The Ultimate Display", mid-1960's</small>
 
-## Recorded Web Presentation Running in our WebXR Viewer</h2>
-<p><em>on an iPad</em></p>
-<p>Using webxr.js + reveal.js + three.js</p>
+------
+<!-- .slide: data-background="resources/textures/industrial-medical.png"  -->
+
+------
+<!-- .slide: data-background="resources/textures/blair-montage.png"  -->
+
+------
+<!-- .slide: data-background="resources/textures/collaborative-ar.png"  -->
+
+------
+<!-- .slide: data-background="media/img/metaverse.jpg" -->
+
+<!-- NOTES -->
+
+## I want The Metaverse
 
 ------
 
-<!-- .slide:  data-background-video="resources/videos/shadow-movie4-720p.mov" -->
+<!-- .slide: data-background="media/img/metaverse.jpg" -->
 
-<div style="background: rgba(32, 32, 32, 0.5);">
+## Can we Give Everyone a Voice?
 
-<h1>Goal: Expand WebVR to include AR</h1>
-<h2>Support full range of Mixed Reality</h2>
-
-<p>A <i>webby</i> approach to MR that</p>
-
-<ul>
-<li> Supports AR and VR web apps in one API</li>
-<li> Leverages platform capabilities efficiently</li>
-<li> Supports geospatial AR, custom CV</li>
-<li> Leaves door open for multi-augmentation</li>
-<li> Respects people's privacy</li>
-</ul>
-<br>
-AR/VR that keeps the user in control!
-
-</div>
-
-------
-
-<!-- .slide: data-background="resources/textures/argonjs-github.png" data-background-position="top left" -->
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<blockquote style="background: rgba(32, 32, 32, 0.5);">
-  Inspired by WebVR 2.0  and <em>argon.js</em> / <em>Argon4</em> "reality" architecture <br>(<em>argon.js</em> project at <em>http://argonjs.io</em>)
+<blockquote>
+The democratization of information makes it possible, that ideas, opinions, cultural diversity, knowledge, and education will be accessible anywhere, anytime, and to everybody. <br>
+http://www.humanrightsaction.org/information/english.html
 </blockquote>
 
+<!-- NOTES -->
+
 ------
-<!-- .slide: data-state="xrslide" data-transition="fade-out" -->
+<!-- .slide: data-background="media/img/metaverse.jpg" -->
 
-<div style="background: rgba(32, 32, 32, 0.5);">
+## The Web democratized the 2D Metaverse
+## And it can do it for AR/VR/MR
 
-<h1>What's where?</h1>
+------
 
-<p>WebXR API design and discussion: https://github.com/mozilla/webxr-api</p>
-<p>WebXR polyfill and examples: https://github.com/mozilla/webxr-polyfill</p>
-<p>WebXR iOS app: https://github.com/mozilla-mobile/webxr-ios</p>
-<br>
-Hosted on netlify.com in webxrexperiments.com
-</div>
+<!-- .slide: data-background="resources/textures/argonjs-github.png" data-background-position="top left"  data-state="notxrslide" -->
+
+------
+
+<!-- .slide: data-background="resources/textures/mozilla-org.png" data-background-size="contain" -->
